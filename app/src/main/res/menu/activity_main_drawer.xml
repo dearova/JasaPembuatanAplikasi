@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp_2x"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_porto"
+            android:icon="@drawable/ic_thumb_up_black_24dp_2x"
+            android:title="Portofolio" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_mood_black_24dp_2x"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_promo"
+            android:icon="@drawable/ic_insert_comment_black_24dp_2x"
+            android:title="Promo" />
+    </group>
+
+
+
+</menu>
